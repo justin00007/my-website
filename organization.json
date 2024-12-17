@@ -1,0 +1,34 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"organization"},
+{"type":"table","name":"admin","database":"organization","data":
+[
+{"id":"1","name":"Jonathan","email":"jona@gmail.com","password":"1234"}
+]
+}
+,{"type":"table","name":"product","database":"organization","data":
+[
+{"id":"13","product_name":"Bro Maynard","product_price":"169","product_quantity":"254","product_details":"Cumque placeat susc","product_image":"675c077e177cf.png"},
+{"id":"14","product_name":"Hilary Norman","product_price":"684","product_quantity":"866","product_details":"Pariatur Ex volupta","product_image":"uploads\/2.png"},
+{"id":"15","product_name":"Justine Walker","product_price":"812","product_quantity":"759","product_details":"Dolores ut est omnis","product_image":"uploads\/3.png"},
+{"id":"16","product_name":"Celeste Robertson","product_price":"865","product_quantity":"943","product_details":"Ut voluptatum itaque","product_image":"uploads\/4.png"}
+]
+}
+,{"type":"table","name":"student","database":"organization","data":
+[
+{"ID":"49","Student_name":"Herrod Bridges","Gender":"female","Phone_number":"9098765456","Email":"veruv@mailinator.com","Class":"Omnis iure laboriosa","Reg_number":"655","passwords":"$2y$10$moLdxIPQx5Tc0jwU9TxmWuoRkF1l5fdWdQu6hMssHEkd9b.b1oqNy","status":"0"},
+{"ID":"50","Student_name":"Jolie Mcgee","Gender":"male","Phone_number":"8976567876","Email":"lotab@mailinator.com","Class":"Nostrum culpa ipsam","Reg_number":"716","passwords":"$2y$10$WQ\/EC0yqOj54hOpRAl9djON9cJViGChfVtNlpUWqPwLojoVOd1nai","status":"0"},
+{"ID":"47","Student_name":"Jerry","Gender":"male","Phone_number":"1234543210","Email":"jerry@gmail.com","Class":"XII","Reg_number":"324234","passwords":"$2y$10$9TOoFSMwCCF2IeO3\/fXbaOYFModX3BfsJfSiWHOLnTCezhNJZyJwu","status":"0"},
+{"ID":"42","Student_name":"Brenden Hutchinson","Gender":"female","Phone_number":"6789098767","Email":"pocugyqe@mailinator.com","Class":"Incididunt beatae no","Reg_number":"923","passwords":"$2y$10$OwmozhIrDFMC6jmX6\/rj1.WtvPqCuOxVxELvHtGVoqCJrwSy7xjOW","status":"0"},
+{"ID":"48","Student_name":"Dorothy Carr","Gender":"male","Phone_number":"8796857675","Email":"nomuxudoxa@mailinator.com","Class":"Incididunt magnam ni","Reg_number":"250","passwords":"$2y$10$tRzmvluqUSBrl0oRqoWgGO\/Yg4FWhZPkJYm5E\/pJNKMq2BvNogKJ.","status":"0"},
+{"ID":"43","Student_name":"Xander Summers","Gender":"female","Phone_number":"7678765676","Email":"lahexico@mailinator.com","Class":"Et id eos dolore re","Reg_number":"265","passwords":"$2y$10$3FqArBoJuJsBrDGtJaqt.uQfox9LK9RMdHBgNsagKFO0FqxHeJfUC","status":"0"},
+{"ID":"36","Student_name":"Ban Lyngdoh","Gender":"male","Phone_number":"9612529541","Email":"banlam65@gmail.com","Class":"XII","Reg_number":"PA16001","passwords":"$2y$10$nL1gpFcFgPxi6ptweseDneApkQmVdveM0w2JWkgModLHioK6azbOq","status":"0"}
+]
+}
+,{"type":"table","name":"user","database":"organization","data":
+[
+{"id":"1","username":"wohol","email":"nyjig@mailinator.com","phone":"7898765678","gender":"others","password":"$2y$10$gMRyDojD5E1TzcEehzXD4OVlU.bTeiRZBgIyf\/BywjoMBouazBiES","address":"Corporis laborum Do","status":"0"},
+{"id":"2","username":"Jerry Seinfield","email":"jerry@gmail.com","phone":"9999999999","gender":"male","password":"$2y$10$\/XqOmKVUDk.w0ePWlSsWM.qUDF0ly\/rIL7HdSKlw01hRGG.TlbAt6","address":"USA","status":"0"}
+]
+}
+]
